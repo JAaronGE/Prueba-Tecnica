@@ -1,0 +1,19 @@
+{
+  "name": "prueba_tecnica",
+  "version": "1.0.0",
+  "description": "Prueba técnica cells",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "author": "Aaron Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^3.3.0",
+    "lit-element": "^4.2.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}
